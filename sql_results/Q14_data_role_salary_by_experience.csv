@@ -1,0 +1,14 @@
+role_family,experience_level,jobs_with_salary,avg_salary_lpa
+Data Analyst,Fresher (0-1),14,3.41
+Data Analyst,Junior (1-3),116,4.08
+Data Analyst,Mid (3-6),135,10.89
+Data Analyst,Senior (6-10),40,19.07
+Data Engineer,Junior (1-3),15,6.92
+Data Engineer,Mid (3-6),186,16.74
+Data Engineer,Senior (6-10),171,20.42
+Data Engineer,Lead / Expert (10+),17,31.5
+Data Scientist,Fresher (0-1),12,7.66
+Data Scientist,Junior (1-3),30,9.56
+Data Scientist,Mid (3-6),83,17.57
+Data Scientist,Senior (6-10),55,27.89
+Data Scientist,Lead / Expert (10+),19,31.83

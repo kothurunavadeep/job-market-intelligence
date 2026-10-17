@@ -1,0 +1,27 @@
+role_family,jobs_with_salary,avg_lpa,median_lpa,min_lpa,max_lpa
+Data Engineer,391,18.62,20.0,0.5,72.0
+Data Scientist,199,19.98,17.0,0.5,80.0
+Full Stack Developer,382,15.97,16.5,0.5,45.0
+Software Engineer,1567,15.2,14.0,0.5,120.0
+DevOps / Cloud,367,15.22,14.0,0.5,60.0
+Backend Developer,456,14.8,14.0,0.5,70.0
+Frontend Developer,205,12.98,11.75,0.5,50.0
+Product / Project Mgmt,262,14.67,11.5,0.5,100.0
+Consulting & Architecture,561,17.95,11.0,0.5,125.0
+Cyber Security,64,12.75,8.75,1.0,90.0
+QA / Testing,432,9.72,7.5,0.5,45.0
+Mobile Developer,76,9.28,7.5,0.8,45.0
+Business / Research Analyst,184,9.44,6.75,0.5,40.0
+Data Analyst,308,9.29,6.0,0.5,60.0
+Admin & General Mgmt,4232,8.05,4.78,0.5,150.0
+Finance & Accounting,1708,7.4,4.5,0.5,125.0
+Engineering (Non-IT),2721,6.47,4.5,0.0,125.0
+Operations & Logistics,1055,6.75,4.38,0.5,200.0
+Marketing & Content,942,5.9,4.25,0.5,100.0
+Sales & Business Dev,5914,5.36,3.88,0.0,108.0
+Other,3726,7.22,3.88,0.48,150.0
+UI/UX & Design,526,5.28,3.75,0.5,90.0
+Healthcare,731,9.41,3.75,0.5,150.0
+HR & Recruitment,1297,5.27,3.75,0.0,150.0
+Education & Training,713,5.45,3.72,0.5,95.0
+Customer Support / BPO,3135,3.28,3.0,0.5,84.0

@@ -1,0 +1,10 @@
+role_group,work_mode,job_postings,pct_within_group
+Data roles,On-site,3087,77.14
+Data roles,Hybrid,773,19.32
+Data roles,Remote,142,3.55
+Non-tech roles,On-site,64393,95.57
+Non-tech roles,Hybrid,2011,2.98
+Non-tech roles,Remote,974,1.45
+Other tech roles,On-site,18966,84.22
+Other tech roles,Hybrid,2882,12.8
+Other tech roles,Remote,672,2.98

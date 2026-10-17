@@ -1,0 +1,31 @@
+skill,job_postings,pct_of_data_jobs,skill_rank
+Python,1609,40.2,1
+SQL,1037,25.91,2
+Machine Learning,752,18.79,3
+Data Analysis,490,12.24,4
+PySpark,441,11.02,5
+AI,417,10.42,6
+Scala,409,10.22,7
+Power BI,401,10.02,8
+Hive,383,9.57,9
+ETL,343,8.57,10
+AWS,324,8.1,11
+Data Engineering,315,7.87,12
+Data Modeling,312,7.8,13
+Business Intelligence,309,7.72,14
+Excel,291,7.27,15
+NLP,282,7.05,16
+Hadoop,276,6.9,17
+Spark,275,6.87,18
+Snowflake,262,6.55,19
+Azure,242,6.05,20
+GCP,240,6.0,21
+Data Warehousing,237,5.92,22
+Data Science,234,5.85,23
+Airflow,227,5.67,24
+Tableau,214,5.35,25
+Data Analytics,208,5.2,26
+TensorFlow,187,4.67,27
+Generative AI,179,4.47,28
+Analytics,165,4.12,29
+Git,163,4.07,30

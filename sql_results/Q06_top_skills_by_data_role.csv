@@ -1,0 +1,31 @@
+role_family,rank_in_role,skill,job_postings
+Data Analyst,1,SQL,407
+Data Analyst,2,Data Analysis,350
+Data Analyst,3,Power BI,336
+Data Analyst,4,Excel,287
+Data Analyst,5,Python,286
+Data Analyst,6,Business Intelligence,247
+Data Analyst,7,Tableau,179
+Data Analyst,8,Data Analytics,140
+Data Analyst,9,MIS,104
+Data Analyst,10,Data Visualization,99
+Data Engineer,1,Python,691
+Data Engineer,2,SQL,497
+Data Engineer,3,PySpark,406
+Data Engineer,4,Scala,389
+Data Engineer,5,Hive,326
+Data Engineer,6,ETL,297
+Data Engineer,7,Data Engineering,296
+Data Engineer,8,Spark,264
+Data Engineer,9,Hadoop,262
+Data Engineer,10,Airflow,218
+Data Scientist,1,Machine Learning,681
+Data Scientist,2,Python,632
+Data Scientist,3,AI,397
+Data Scientist,4,NLP,272
+Data Scientist,5,Data Science,212
+Data Scientist,6,TensorFlow,185
+Data Scientist,7,Generative AI,173
+Data Scientist,8,PyTorch,139
+Data Scientist,9,Deep Learning,139
+Data Scientist,10,SQL,133
